@@ -103,22 +103,38 @@ body {
 
 
 /* BI FLAG START */
-
+.three_one_one {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: #D70270;
+}
 .three_one {
     border: none;
     width: 295px;
-    height: 57.5px;
-    background-color: rgb(187, 187, 187);
+    height: 37.5px;
+    background-color: #D70270;
 }
 .three_two {
     border: none;
     width: 295px;
     height: 25px;
-    background-color: #fff;
+    background-color: #734F96;
 }
 .three_three {
     border: none;
     width: 295px;
-    height: 57.5px;
-    background-color: rgb(190, 190, 190);
+    height: 37.5px;
+    background-color: #0038A8;
 }
+.three_three_one {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: #0038A8;
+}
+/*BI FLAG END*/
