@@ -1,0 +1,101 @@
+body {
+    background-color: black;
+}
+
+/*GAY FLAG START*/
+.one_one {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: #078D70
+}
+.one_two {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #26CEAA;
+}
+.one_three {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #98E8C1;
+}
+.one_four {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #fff;
+}
+.one_five {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #7BADE2;
+}
+.one_six {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #5049CC;
+}
+.one_seven {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: #3D1A78;
+}
+/*GAY FLAG END*/
+
+
+/* LESBIAN FLAG START */
+.two_one {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: #F72700;
+}
+.two_two {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #FF6402;
+}
+.two_three {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #FE9A51;
+}
+.two_four {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #fff;
+}
+.two_five {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #FF9FD9;
+}
+.two_six {
+    border: none;
+    width: 295px;
+    height: 20px;
+    background-color: #E520C0;
+}
+.two_seven {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: #A7016F;
+}
