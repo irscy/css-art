@@ -138,3 +138,40 @@ body {
     background-color: #0038A8;
 }
 /*BI FLAG END*/
+
+
+/*PAN FLAG START*/
+.four_one_one {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: #D70270;
+}
+.four_one {
+    border: none;
+    width: 295px;
+    height: 26.66px;
+    background-color: #D70270;
+}
+.four_two {
+    border: none;
+    width: 295px;
+    height: 46.66px;
+    background-color: #734F96;
+}
+.four_three {
+    border: none;
+    width: 295px;
+    height: 26.66px;
+    background-color: #0038A8;
+}
+.four_three_one {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: #0038A8;
+}
