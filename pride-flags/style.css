@@ -103,25 +103,22 @@ body {
 
 
 /* BI FLAG START */
-.flag_three {
-    height: 140;
-}
 
 .three_one {
     border: none;
     width: 295px;
-    height: 50px;
+    height: 57.5px;
     background-color: rgb(187, 187, 187);
 }
 .three_two {
     border: none;
     width: 295px;
-    height: 39px;
+    height: 25px;
     background-color: #fff;
 }
 .three_three {
     border: none;
     width: 295px;
-    height: 50px;
+    height: 57.5px;
     background-color: rgb(190, 190, 190);
 }
