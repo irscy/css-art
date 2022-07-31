@@ -218,3 +218,58 @@ body {
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
+/*ASEXUAL FLAG END*/
+
+
+/*OMNISEXUAL FLAG START*/
+.six_one_one {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: #FF80A9;
+}
+.six_one {
+    border: none;
+    width: 295px;
+    height: 8px;
+    background-color: #FF80A9;
+}
+.six_two {
+    border: none;
+    width: 295px;
+    height: 28px;
+    background-color: #F62090;
+}
+.six_three {
+    border: none;
+    width: 291px;
+    height: 28px;
+    border-width: 0px;
+    border-style: solid;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-color: rgb(51, 51, 51);
+    background-color: #000;
+}
+.six_four {
+    border: none;
+    width: 295px;
+    height: 28px;
+    background-color: #2A269F;
+}
+.six_five {
+    border: none;
+    width: 295px;
+    height: 8px;
+    background-color: #7572DB;
+}
+.six_five_one {
+    border: none;
+    width: 295px;
+    height: 20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: #7572DB;
+}
